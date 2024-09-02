@@ -17,4 +17,5 @@ Designing interactive dashboards with charts.
 
 # Dashboard image
 
-![Dashboard](c:\Users\DELL\Downloads\anh.png)
+[Dashboard](![anh](https://github.com/user-attachments/assets/1cb0da40-f5f5-4868-bd2b-2e94957567a5)
+)
