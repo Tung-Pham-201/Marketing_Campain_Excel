@@ -17,5 +17,4 @@ Designing interactive dashboards with charts.
 
 # Dashboard image
 
-[Dashboard](![anh](https://github.com/user-attachments/assets/1cb0da40-f5f5-4868-bd2b-2e94957567a5)
-)
+![Dashboard](![anh](https://github.com/user-attachments/assets/1cb0da40-f5f5-4868-bd2b-2e94957567a5))
