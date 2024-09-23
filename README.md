@@ -1,20 +1,16 @@
 # Overview
-This project uses data previously mined in an earlier project. Although the data is not entirely suitable for detailed customer segmentation and comprehensive insights, I have processed it and built a dashboard to display key information.
+This project uses sales data provided during my time at university. The dataset contains information related to sales statistics for laptops and desktops within a month.
 
 # Features
-  * Data Processing: Utilized Excel functions like IF, VLOOKUP, TEXT, REPLACE and QUARTILE for data manipulation and analysis.
-* Dashboard: Created various charts and PivotTables to visualize data.
-
-# Open the Excel file
-In the project directory, open the Excel file to view the dashboard and data.
+ * Data Processing: Cleaned and removed data errors. Utilized Excel functions like SUMIFS, COUNTIFS, VLOOKUP, INDEX, MATCH, PivotTables, Combobox,... for data manipulation and analysis.
+* Dashboard: Created dynamic dashboards with various charts and PivotTables to visualize key insights.
 
 # Limitations
-The data is not entirely suitable for detailed customer segmentation.
+The data provided is not real business data and the size and detail of the data is not too large
 # Lessons Learned
-* Advanced Excel functions (IF, VLOOKUP, TEXT, REPLACE).
-Creating and using PivotTables.
-Designing interactive dashboards with charts.
+*Gained a deeper understanding of Excel tools and functions for data processing.
+*Enhanced knowledge in sales domain metrics, such as total sales, product categories,...
+*Designed and created interactive dashboards to display sales performance visually.
 
-# Dashboard image
 
-![Dashboard](![anh](https://github.com/user-attachments/assets/1cb0da40-f5f5-4868-bd2b-2e94957567a5))
+
